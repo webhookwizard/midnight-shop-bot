@@ -1,0 +1,5 @@
+# Runtime: Python 3.9+ standard library only.
+# The bot needs NO dependencies and NO API keys.
+#
+# Dev (to run the test suite):
+pytest>=7.0

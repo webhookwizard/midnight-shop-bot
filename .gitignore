@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets & local config
+.env
+
+# Runtime data (order records are the shop's business data)
+orders.log
+*.log
